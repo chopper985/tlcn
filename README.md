@@ -11,6 +11,8 @@ https://docs.flutter.dev/get-started/install
 4.  Mở Terminal trong IDE, chạy lệnh “flutter pub get” 
 5.	Gắm thiết bị Andoird thật (điện thoại hệ điều hành Android) hoặc sử dụng máy ảo Android
 6.	Chạy lệnh “flutter run” hoặc click biểu tượng nút Run ở trình soạn thảo code (Android Studio hoặc Visual Code) để chạy Project
+
+
 •	Web:
 1.	Cài đặt Android Studio hoặc Visual Code
 -	Android Studio
